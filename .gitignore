@@ -1,0 +1,8 @@
+# Ignore everything
+*
+
+# Allow these files
+!main.py
+!requirements.txt
+!startup.txt
+!.gitignore
